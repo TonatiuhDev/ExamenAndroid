@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaTecnica</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_product_list">Ir a listado de productos</string>
+    <string name="product_image">Imagen del producto</string>
+    <string name="product_list">Lista de productos</string>
+</resources>
